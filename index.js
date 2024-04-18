@@ -1,4 +1,4 @@
-// require('./syntax');
+require('./syntax');
 // require('./binding-and-assignment');
 // require('./destructured-re-assignable-variables');
 // require('./default-value');
@@ -7,4 +7,4 @@
 // require('./computed-property-names');
 // require('./invalid-identifiers');
 // require('./prototype-chain-and-destructuring');
-require('./swapping-variables');
+// require('./swapping-variables');

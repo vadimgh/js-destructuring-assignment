@@ -1,4 +1,4 @@
-const obj = { a: 0, b: 1 }
+const obj = { a: 0, b: 1 };
 
 const { a: c, b: d } = obj;
 
